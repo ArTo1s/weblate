@@ -6,6 +6,7 @@
         "back": "test review",
         "next": "tets review 2",
         "done": "test approve",
-        "guest": "guest main stage"
+        "guest": "guest main stage",
+        "signUp": "develop"
     }
 }
