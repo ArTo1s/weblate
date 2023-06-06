@@ -5,6 +5,7 @@
         "min": "added separate branch test",
         "done": "test approve",
         "back": "test review",
-        "next": "tets review 2"
+        "next": "tets review 2",
+        "guest": "guest main"
     }
 }
