@@ -2,6 +2,9 @@
     "global": {
         "day": "spanish day",
         "hour": "spanish day",
-        "min": "added separate branch test"
+        "min": "added separate branch test",
+        "done": "test approve",
+        "back": "test review",
+        "next": "tets review 2"
     }
 }
