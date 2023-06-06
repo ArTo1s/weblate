@@ -1,5 +1,6 @@
 {
     "global": {
-        "day": "spanish day"
+        "day": "spanish day",
+        "hour": "spanish day"
     }
 }
