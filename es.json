@@ -6,6 +6,6 @@
         "done": "test approve",
         "back": "test review",
         "next": "tets review 2",
-        "guest": "guest main"
+        "guest": "guest main stage"
     }
 }
