@@ -1,6 +1,7 @@
 {
     "global": {
         "day": "spanish day",
-        "hour": "spanish day"
+        "hour": "spanish day",
+        "min": "added separate branch test"
     }
 }
